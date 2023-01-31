@@ -1,0 +1,12 @@
+/* styles.css */
+
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li {
+    background-color: antiquewhite;
+    margin: 3px;
+    padding: 2px;
+}
