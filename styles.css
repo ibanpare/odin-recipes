@@ -1,0 +1,14 @@
+/* styles.css */
+
+body {
+    color: #100735;
+    font-family: Helvetica, Verdana, Geneva, Tahoma, sans-serif ;
+}
+
+li {
+    padding: 5px;
+    border: darkviolet solid 3px;
+    margin: 5px;
+    color: darkblue;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
